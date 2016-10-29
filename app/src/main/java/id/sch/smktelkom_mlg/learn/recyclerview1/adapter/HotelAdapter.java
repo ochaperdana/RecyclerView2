@@ -39,9 +39,8 @@ public class HotelAdapter extends RecyclerView.Adapter<HotelAdapter.ViewHolder>{
 
     @Override
     public int getItemCount() {
-        if (hotelList!=null){
+        if (hotelList!=null)
             return hotelList.size();
-        }
         return 0;
     }
 
