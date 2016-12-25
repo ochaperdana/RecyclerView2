@@ -7,4 +7,3 @@
 <br>Telkom Schools SMK Telkom Malang</h2>
 #Screenshots
 [![2.jpg](https://s21.postimg.org/imnpdjckn/image.jpg)](https://postimg.org/image/r4x5hvj37/)
-#APK Link
